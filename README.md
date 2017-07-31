@@ -1,2 +1,2 @@
 # ha-bit
-A personal app I decided to make to track my daily habits and view statistics about them
+A personal app to track daily habits and view statistics about them
